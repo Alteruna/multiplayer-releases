@@ -10,6 +10,7 @@ Get the latest version from the **[Releases](https://github.com/Alteruna/multipl
 |---|---|
 | .NET | [`Alteruna.Multiplayer`](https://www.nuget.org/packages/Alteruna.Multiplayer) on NuGet; the `.nupkg` is also attached to each release |
 | C / C++ | `alteruna-multiplayer-cpp-<version>-<platform>.zip` for Windows x64, Linux x64 and macOS (Apple Silicon and Intel) |
+| Godot 4.4+ | `alteruna-multiplayer-godot-<version>.zip`: extract into your project so `addons/alteruna` sits in the project root, then use the `AlterunaService` node from GDScript (Windows x64, Linux x64, macOS Apple Silicon) |
 | Unity | [multiplayer-sdk-unity-package](https://github.com/Alteruna/multiplayer-sdk-unity-package) |
 
 ## C / C++
